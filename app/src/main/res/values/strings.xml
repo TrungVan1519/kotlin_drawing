@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="image_background">image background</string>
+    <string name="button_brush">Button brush</string>
+    <string name="button_undo">Button undo</string>
+    <string name="button_gallery">Button gallery</string>
+    <string name="image">image</string>
+    <string name="large_brush">Large brush</string>
+    <string name="medium_brush">Medium brush</string>
+    <string name="small_brush">Small brush</string>
+    <string name="please_wait">Please Wait</string>
+</resources>
